@@ -7,9 +7,7 @@ BuildGUI:
 GuiConF:
 
   Handles GUI's
-  
-    examples:
-    
+
     Hide a GUI - GuiConF(GUI,2,-1,-1)
     
     Set Text - GuiConF(GUI,3,TEXT,-1)
