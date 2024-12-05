@@ -91,7 +91,6 @@ examples:
 Hide a GUI - GuiConF(GUI,2,-1,-1)
 Set Text - GuiConF(GUI,3,TEXT,-1)
 Show Gui - GuiConF(GUI,1,X,Y)
-dots built differently, exceptions made
 */
 GuiConF(GuiNumber,ConType,xLoc,yLoc)
 {
