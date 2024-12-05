@@ -1,8 +1,9 @@
-- Serbz's AHK Template -
+--- Serbz's AHK Template ---
   
 BuildGUI:
 
   Function that builds a text GUI (4 layers for outline, and 1 on the foreground)
+  
   
 GuiConF:
 
@@ -13,6 +14,8 @@ GuiConF:
     Set Text - GuiConF(GUI,3,TEXT,-1)
     
     Show Gui - GuiConF(GUI,1,X,Y)
+
+    
     
 Three Timer:
 
